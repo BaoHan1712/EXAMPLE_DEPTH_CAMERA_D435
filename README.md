@@ -75,7 +75,7 @@ python IMU/get_IMU.py
 
 #### Demo sử dụng:
 ```python
-python distance_object/distance.py
+python distance_object/distance_multy_ob.py
 ```
 
 ![Minh họa](distance_object/image.png)
@@ -204,7 +204,7 @@ python IMU/get_IMU.py
 
 #### Demo usage:
 ```python
-python distance_object/distance.py
+python distance_object/distance_multy_ob.py
 ```
 
 ![Demo](distance_object/image.png)
